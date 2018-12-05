@@ -1,3 +1,6 @@
+- 2018.12.05克隆
+    - 测试克隆项目上传到github
+
 - 2017.5.13跟新
     - 增加登陆错误判断（密码错误&ip校验）
     - 修改queryOrderWaitTime，校验orderId字段bug，校验msg字段bug，校验messagesbug
